@@ -6,7 +6,7 @@
 - [ ] Fazer exercícios
 
 ## 🎯 Esta semana
-- [ ] Criar 3 projetos no GitHub
+- [ x] Criar 3 projetos no GitHub
 - [ ] Aprender HTML básico
 - [ ] Compartilhar perfil no LinkedIn
 
